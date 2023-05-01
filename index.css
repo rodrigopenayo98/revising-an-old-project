@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: rgb(90, 89, 89);
+}
+
+h1 {
+    font-size: 3.5em;
+    color: white;
+}
+
+a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    border-bottom: 3px solid rgb(6, 150, 175);
+}
+
+nav a{
+    display: inline-block;
+    width: 25%;
+
+}
+
+nav a:hover{
+    color: rgb(6, 150, 175);
+}
