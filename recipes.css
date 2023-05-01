@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: rgb(90, 89, 89);
+}
+
+h1 {
+    font-size: 3.5em;
+    color: white;
+}
+
+h4 {
+color: rgb(13, 187, 218);
+}
+
+p {
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+
+li {
+    color: white;
+    line-height: 1.5;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+}
